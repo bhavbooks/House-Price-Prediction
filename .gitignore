@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+##
+.DS_Store
+notebooks/data/.DS_Store
+venv/
+venv
 # Distribution / packaging
 .Python
 build/

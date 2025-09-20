@@ -10,8 +10,8 @@
   "url": "https://repo.anaconda.com/pkgs/main/osx-64/tk-8.6.15-h3a5a201_0.conda",
   "sha256": "81575da05bb9e2b796053466a4837591406718e80abd5c2ef1da3a9e0751d3f1",
   "depends": [
-    "__osx >=10.15",
-    "zlib >=1.2.13,<1.3.0a0"
+    "zlib >=1.2.13,<1.3.0a0",
+    "__osx >=10.15"
   ],
   "constrains": [],
   "license": "TCL",
